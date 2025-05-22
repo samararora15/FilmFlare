@@ -1,0 +1,8 @@
+🎬 MovieFinder – React + Appwrite Based Movie Discovery App
+Tech Stack: React, Appwrite (Database & Functions), TMDB API, Tailwind CSS
+
+Developed a responsive movie search application using React, integrated with TMDB API for real-time movie data retrieval and display.
+
+Implemented search debouncing for optimized API calls, trending movie tracking using Appwrite's cloud database, and dynamic UI updates with loading states and error handling.
+
+Used Appwrite Functions to track and store user search queries, compute top trending movies, and display them with poster thumbnails in a dedicated trending section.
